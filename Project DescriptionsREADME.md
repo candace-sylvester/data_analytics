@@ -16,7 +16,7 @@ Tableau
 
 
 # Excel 
-In the excel folder I created two pivot tables with the  Bike Store Sales in Europe dataset.I used this dataset to create two pivot tables.One comparing country and state against profit, cost, and revenue; from that datasheet the United States had the highest revenue, cost, and profit.
+In the excel folder I created two pivot tables with the  Bike Store Sales in the Europe dataset.I used this dataset to create two pivot tables.One comparing country and state against profit, cost, and revenue; from that dataset the United States had the highest revenue, cost, and profit.
 The second pivot table had country and state compared against the revenue made throughout the years 2011-2016. Australia had the highest revenue especially in the years 2013 and 2015. While the U.S. made the second-largest amount in the same years as Australia.
 # Python
 In the python folder there are 3 files called Diabetic Datset,Integer Identification dataset, and Sweetwater and Illinois Covid19 Death Cases.
